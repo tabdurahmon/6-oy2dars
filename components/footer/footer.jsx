@@ -5,7 +5,7 @@ function Footer() {
     <div className="footer">
       <div className="footer-container">
         <p>All rights reserved.</p>
-        <a href="https://www.youtube.com/@akhrorweb">Akhror Soliev</a>
+        <a href="">Abdurahmon</a>
       </div>
     </div>
   );
